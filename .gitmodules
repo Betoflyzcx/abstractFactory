@@ -1,0 +1,6 @@
+[submodule "abstractFactory"]
+	path = abstractFactory
+	url = https://github.com/Betoflyzcx/abstractFactory.git
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/google/googletest.git
